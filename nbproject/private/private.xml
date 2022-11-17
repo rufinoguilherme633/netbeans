@@ -3,12 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/dao/PlanoDeSaudeDao.java</file>
-            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/model/Especialidade.java</file>
-            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/dao/EspecialidadeDao.java</file>
             <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/ui/EspecialidadePanel.java</file>
-            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/ui/EspecialidadesDialog.java</file>
-            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/model/PlanoDeSaude.java</file>
+            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/ui/MedicoDialog.java</file>
+            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/ui/MedicoPanel.java</file>
+            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/ui/PlanosDeSaudeDialog.java</file>
         </group>
     </open-files>
 </project-private>
