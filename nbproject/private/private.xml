@@ -5,6 +5,9 @@
         <group>
             <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/model/Medico.java</file>
             <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/dao/MedicoDao.java</file>
+            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/model/Pessoa.java</file>
+            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/dao/EspecialidadeDao.java</file>
+            <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/ui/HomeFrame.java</file>
             <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/ui/MedicoDialog.java</file>
             <file>file:/C:/Users/22282090/eclipse-workspace/sistema-agendamento-clinica/src/br/senai/sp/jandira/ui/MedicoPanel.java</file>
         </group>
